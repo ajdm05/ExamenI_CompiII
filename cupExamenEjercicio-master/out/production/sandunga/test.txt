@@ -1,0 +1,7 @@
+terminal plox, ing, testing;
+
+non terminal prro, no, test;
+
+nonterminal prri, test, no;
+
+prri ::= id:i;
